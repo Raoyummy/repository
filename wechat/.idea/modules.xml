@@ -8,9 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/wechat.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/wechat.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/wechat.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/wechat.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/okhttptest4/wechat.okhttptest4.iml" filepath="$PROJECT_DIR$/.idea/modules/okhttptest4/wechat.okhttptest4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okhttptest4/wechat.okhttptest4.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/okhttptest4/wechat.okhttptest4.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okhttptest4/wechat.okhttptest4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/okhttptest4/wechat.okhttptest4.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okhttptest4/wechat.okhttptest4.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/okhttptest4/wechat.okhttptest4.unitTest.iml" />
     </modules>
   </component>
 </project>
