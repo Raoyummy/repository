@@ -5,3 +5,15 @@ wechat/.gradle/checksums/md5-checksums.bin
 wechat/.gradle/buildOutputCleanup/buildOutputCleanup.lock
 wechat/.gradle/7.0.2/dependencies-accessors/dependencies-accessors.lock
 wechat/.gradle/7.0.2/fileHashes/fileHashes.lock
+wechat/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+wechat/.gradle/7.0.2/executionHistory/executionHistory.bin
+wechat/.gradle/7.0.2/executionHistory/executionHistory.lock
+wechat/.gradle/7.0.2/fileHashes/fileHashes.bin
+wechat/.gradle/7.0.2/fileHashes/fileHashes.lock
+wechat/.gradle/7.0.2/executionHistory/executionHistory.bin
+wechat/.gradle/7.0.2/executionHistory/executionHistory.lock
+wechat/.gradle/7.0.2/fileHashes/fileHashes.bin
+wechat/.gradle/7.0.2/fileHashes/fileHashes.lock
+wechat/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+*.bin
+*.lock
