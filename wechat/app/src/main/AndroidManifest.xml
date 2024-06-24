@@ -9,22 +9,19 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppCompat.NoActionBar"
+        android:theme="@style/Theme.Wechat"
         >
 
-        <activity android:name="cn.itcast.order.activity.ShopActivity"
+        <activity android:name=".MainActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".WelcomeActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="cn.itcast.order.activity.ShopDetailActivity" />
-        <activity
-            android:name="cn.itcast.order.activity.FoodActivity"
-            android:theme="@style/Theme.ActivityDialogStyle" />
-        <activity android:name="cn.itcast.order.activity.OrderActivity" />
 
     </application>
 </manifest>
